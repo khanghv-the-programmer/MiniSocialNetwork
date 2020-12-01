@@ -7,6 +7,10 @@ This repo contains the source code of a smple Java application used to demonstra
 * .gitignore
 * Markdown file - this file itself
 * MiniSocialNetwork - project of Java Web Lab of FPT University
+* YellowMoonCake - project of Java Web Lab of FPT University
+* JourneyToTheWest -project of Java Web of FPT University
+* WebsiteSellingPhone - project of C# of FPT University
+* Selenium Test - assignment of Software Testing of FPT University
 
 ## Connect me via
 1. [GitHub](https://github.com/WebDesignForDio)
