@@ -1,0 +1,200 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Sep 24, 2020, 6:13:57 AM
+    Author     : USER
+*/
+
+a {
+    text-decoration: none;
+    
+    
+}
+
+a:hover {
+    background-color: #ddd;
+    color: black;
+}
+
+#previous {
+    background-color: #f0a500;
+    margin-left: 20px;
+    color: black;
+    font-size: 25px;
+    color: white;
+    padding: 8px 16px;
+}
+
+#previous:hover
+{
+    background-color: #edc988;
+}
+
+#delete-button
+{
+    width: 75px;
+    height: 75px;
+    font-size: 40px;
+    border: solid black 2px; 
+}
+
+#delete-button:hover
+{
+    background-color: #ddd;
+}
+
+#detail
+{
+    margin: 5px; 
+    padding: 5px; 
+    text-align: left; 
+    background-color: white;  
+}
+
+#post
+{
+    border: black solid; 
+    padding: 10px
+}
+
+.delete-comment-button
+{
+    width: 40px; 
+    height: 40px; 
+    text-align: center;
+    position: absolute;
+    top: 0;
+    right: 0;
+
+}
+
+.delete-comment-button:hover
+{
+    background-color: #ddd;
+}
+
+.comment
+{   
+    position: relative;
+    margin: 5px 5px 7.5px 5px; 
+    padding: 15px; 
+    border: black solid 2px
+}
+
+#full
+{
+    background-color: azure; 
+    margin: 20px 150px; 
+    padding: 20px; 
+    font-size: 1.2em
+}
+
+#user-detail
+{
+    margin: 5px;
+    padding: 2px; 
+    font-size: 1.1em; 
+    display: inline-block;
+}
+
+#article-detail
+{margin: 5px; 
+ padding: 5px; 
+ text-align: left
+}
+
+#reaction
+{
+    font-size: 1.5em; 
+    border: black solid 3px; 
+    height: 75px; 
+    width: 500px; 
+    position: relative; 
+    text-align: center;
+    margin: 20px;
+    padding: 15px
+}
+
+
+#label
+{
+    position: absolute; 
+    font-size: 1.5em; 
+    padding: 5px
+}
+
+#comment-list
+{
+    margin: 20px; 
+    padding: 10px
+}
+
+#comment-writer
+{
+    margin: 5px 5px 7.5px 5px; 
+    padding: 15px; 
+    border: black solid 2px
+}
+
+.comment
+{
+    margin: 5px 5px 7.5px 5px;
+    padding: 15px;
+    border: black solid 2px
+}
+
+
+.popup {
+  position: relative;
+  display: inline-block;
+  cursor: pointer;
+}
+
+/* The actual popup (appears on top) */
+.popup .popuptext {
+  visibility: hidden;
+  width: 300px;
+  background-color: #555;
+  color: #fff;
+  text-align: center;
+  border-radius: 6px;
+  padding: 8px 0;
+  position: absolute;
+  z-index: 1;
+  bottom: 125%;
+  left: 50%;
+  margin-left: -80px;
+}
+
+/* Popup arrow */
+.popup .popuptext::after {
+  content: "";
+  position: absolute;
+  top: 100%;
+  left: 50%;
+  margin-left: -5px;
+  border-width: 5px;
+  border-style: solid;
+  border-color: #555 transparent transparent transparent;
+}
+
+/* Toggle this class when clicking on the popup container (hide and show the popup) */
+.popup .show {
+  visibility: visible;
+  -webkit-animation: fadeIn 1s;
+  animation: fadeIn 1s
+}
+
+/* Add animation (fade in the popup) */
+@-webkit-keyframes fadeIn {
+  from {opacity: 0;}
+  to {opacity: 1;}
+}
+
+@keyframes fadeIn {
+  from {opacity: 0;}
+  to {opacity:1 ;}
+}
