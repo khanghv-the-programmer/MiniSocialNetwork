@@ -13,7 +13,7 @@ This repo contains the source code of a smple Java application used to demonstra
 * Selenium Test - assignment of Software Testing of FPT University
 
 ## Connect me via
-1. [GitHub](https://github.com/WebDesignForDio)
+1. [GitHub](https://github.com/khanghv-the-programmer)
 2. [Facebook](https://www.facebook.com/huavinhkhangfd3600)
 3. [Email](mail: khanghvse140097@fpt.edu.vn)
-#### © 2020 by khanghv# MiniSocialNetwork
+#### © 2020 by khanghv
