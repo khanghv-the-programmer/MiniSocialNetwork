@@ -1,16 +1,12 @@
 # Welcome to khanghv repository
-This repo contains the source code of a smple Java application used to demonstrate the CI - Continuous Integration process - a part of Introduction to Software Engineering course at FPT University- HCMC campus
+This repo contains the source code of a simple Java Web application used to manage a mini social network - a part of Java Web Lab course at FPT University- HCMC campus
 
 ## You will find in this repo:
-* MathUtil class - holds the list of math methods
-* Test class - demonstrate on Unit Testing and TDD
 * .gitignore
-* Markdown file - this file itself
 * MiniSocialNetwork - project of Java Web Lab of FPT University
-* YellowMoonCake - project of Java Web Lab of FPT University
-* JourneyToTheWest -project of Java Web of FPT University
-* WebsiteSellingPhone - project of C# of FPT University
-* Selenium Test - assignment of Software Testing of FPT University
+* src code folder
+* build.xml
+* a bunch of Java code as back-end, CSS/JSP as front-end, JavaScript (Sweet Alert) acts like a confirmation
 
 ## Connect me via
 1. [GitHub](https://github.com/khanghv-the-programmer)
